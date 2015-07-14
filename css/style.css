@@ -32,7 +32,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Lato", Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-family: "Microsoft YaHei", "Lato", Helvetica Neue, Helvetica, Arial, sans-serif;
 }
 h1 {
   font-size: 1.8em;
@@ -124,7 +124,7 @@ a:hover {
   margin-top: 10px;
 }
 #header #main-nav {
-  font-family: "Lato", Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-family: "Microsoft YaHei", "Lato", Helvetica Neue, Helvetica, Arial, sans-serif;
   line-height: 2.5em;
 }
 #header #main-nav ul {
@@ -258,7 +258,7 @@ article header .icon:before {
 }
 article header time {
   color: #4d4d4d;
-  font: 0.9em "Lato", Helvetica Neue, Helvetica, Arial, sans-serif;
+  font: 0.9em "Microsoft YaHei", "Lato", Helvetica Neue, Helvetica, Arial, sans-serif;
   margin-bottom: 5px;
   display: block;
   line-height: 1;
@@ -295,7 +295,7 @@ article .entry blockquote {
   border-top: 1px solid #e2dede;
   border-bottom: 1px solid #e2dede;
   font-style: italic;
-  font-family: "Georgia", serif;
+  font-family: "Microsoft YaHei", "Georgia", serif;
   font-size: 1.2em;
   padding: 0 30px 15px;
   text-align: center;
@@ -314,7 +314,7 @@ article .entry blockquote footer cite:before {
 }
 article .entry code,
 article .entry pre {
-  font-family: Monaco, Menlo, Consolas, Courier New, monospace;
+  font-family: "Microsoft YaHei", Monaco, Menlo, Consolas, Courier New, monospace;
 }
 article .entry code {
   background: #eee;
@@ -494,7 +494,7 @@ article footer .addthis iframe {
   padding: 5px 10px;
   background: #e2dede;
   color: #4d4d4d;
-  font-family: "Lato", Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-family: "Microsoft YaHei", "Lato", Helvetica Neue, Helvetica, Arial, sans-serif;
   text-shadow: 0 0 1px #fff;
   margin-bottom: 50px;
 }
@@ -593,7 +593,7 @@ article footer .addthis iframe {
 }
 #sidebar .search input {
   background: #fff;
-  font-family: "Lato", Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-family: "Microsoft YaHei", "Lato", Helvetica Neue, Helvetica, Arial, sans-serif;
   font-style: italic;
   font-size: 1em;
   padding: 10px 15px;
@@ -641,7 +641,7 @@ article footer .addthis iframe {
 #footer {
   color: #4d4d4d;
   margin-bottom: 50px;
-  font: 0.9em/1.6 "Lato", Helvetica Neue, Helvetica, Arial, sans-serif;
+  font: 0.9em/1.6 "Microsoft YaHei", "Lato", Helvetica Neue, Helvetica, Arial, sans-serif;
   text-shadow: 0 0 1px #fff;
 }
 .entry .gist {
@@ -668,7 +668,7 @@ article footer .addthis iframe {
 }
 .entry .gist .gist-file .gist-data pre {
   padding: 0 !important;
-  font-family: Monaco, Menlo, Consolas, Courier New, monospace;
+  font-family: "Microsoft YaHei", Monaco, Menlo, Consolas, Courier New, monospace;
 }
 .entry .gist .gist-file .gist-meta {
   background: none;
